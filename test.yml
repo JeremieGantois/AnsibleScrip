@@ -1,0 +1,3 @@
+# AnsibleScrip
+---
+- hosts: all
